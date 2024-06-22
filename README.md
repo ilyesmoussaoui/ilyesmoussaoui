@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ilyes Moussaoui
 # 💫 About Me:
-Android Developer 
+Android Developer / IOS Developer 
 
 
 ## 🌐 Socials:
